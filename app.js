@@ -1,6 +1,6 @@
 console.log("Merhaba Kodlama.io")
 
-//js type safe değildir. başta ne tanımlandıysa onunla gidilir.
+//js type safetir. başta ne tanımlandıysa onunla gidilir.
 
 let dolarBugun = 9.30
 let dolarDun =9.20 //değişkenler tanımlandıkları kapsamlarda tanımlıdır.
