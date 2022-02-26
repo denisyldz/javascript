@@ -1,2 +1,2 @@
 # javascript
-This codes including my JavaScript studies
+All of these codes including my JavaScript studies
